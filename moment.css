@@ -1,0 +1,11 @@
+#customTxt{
+  border: 1px solid red;
+  font-size: 30px;
+  padding: 5px;
+  text-align: center;
+  width: 40%;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  transform: translateX(-50%);
+}
